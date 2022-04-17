@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://jsodoge.eu/academic_website/sitemap.xml
